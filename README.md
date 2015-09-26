@@ -1,3 +1,1 @@
-# golang
-mygolangserver
-mygolangservermygolangservermygolangserver
+#A game server implemented with golang.
