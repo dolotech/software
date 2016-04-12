@@ -16,7 +16,8 @@ import (
 	"path/filepath"
 	"runtime"
 	"strings"
-	"github.com/golang/tools/imports"
+
+	"golang.org/x/tools/imports"
 )
 
 var (

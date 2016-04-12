@@ -4,7 +4,7 @@
 
 // Package imports implements a Go pretty-printer (like package "go/format")
 // that also adds or removes import statements as necessary.
-package imports  //import "golang.org/x/tools/imports"
+package imports //import "golang.org/x/tools/imports"
 
 import (
 	"bufio"
@@ -19,7 +19,8 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
-	"github.com/golang/tools/go/ast/astutil"
+
+	"golang.org/x/tools/go/ast/astutil"
 )
 
 // Options specifies options for processing files.
