@@ -1,1 +1,1 @@
-#A game server implemented with golang.
+#develop tools for server
